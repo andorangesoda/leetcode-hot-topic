@@ -4,7 +4,17 @@
 
 # 1、数据结构
 
-## 01-stack
+## 01-string
+
+## 02-array
+
+### 56.Merge Intervals
+
+### 189.Rotate Array
+
+## 03-linkedlist
+
+## 04-stack
 
 ### 20.Valid Parentheses
 
@@ -14,11 +24,7 @@
 
 ### 739.Daily Temperatures
 
-## 02-array
-
-### 56.Merge Intervals
-
-### 189.Rotate Array
+## 05-queue
 
 # 2、算法
 
