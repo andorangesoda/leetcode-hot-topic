@@ -6,17 +6,19 @@
 
 ## 01-stack
 
-### 20.有效的括号
+### 20.Valid Parentheses
 
-### 155.最小栈
+### 155.Min Stack
 
-### 394.字符串解码
+### 394.Decode String
 
-### 739.每日温度
+### 739.Daily Temperatures
 
 ## 02-array
 
-### 56.合并区间
+### 56.Merge Intervals
+
+### 189.Rotate Array
 
 # 2、算法
 
@@ -24,4 +26,4 @@
 
 ## dynamic-programming
 
-### 53.最大子数组和
+### 53.Maximum Subarray

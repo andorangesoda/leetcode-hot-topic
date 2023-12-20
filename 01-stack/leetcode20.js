@@ -1,5 +1,5 @@
 /**
- * 20. 有效的括号
+ * 20. Valid Parentheses
  * @param {string} s
  * @return {boolean}
  */
