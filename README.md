@@ -18,6 +18,8 @@
 
 ### 206. Reverse Linked List
 
+### 160. Intersection of Two Linked Lists
+
 ## 04-stack
 
 ### 20.Valid Parentheses
