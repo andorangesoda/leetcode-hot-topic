@@ -4,9 +4,9 @@
 
 # 1、数据结构
 
-## 01-string
+## 字符串：01-string
 
-## 02-array
+## 数组：02-array
 
 ### 56.Merge Intervals
 
@@ -14,7 +14,7 @@
 
 ### 238.Product of Array Except Self
 
-## 03-linkedlist
+## 链表：03-linkedlist
 
 ### 206. Reverse Linked List
 
@@ -28,7 +28,9 @@
 
 ### 2. Add Two Numbers
 
-## 04-stack
+### 19. Remove Nth Node From End of List
+
+## 栈：04-stack
 
 ### 20.Valid Parentheses
 
@@ -38,12 +40,12 @@
 
 ### 739.Daily Temperatures
 
-## 05-queue
+## 队列：05-queue
 
 # 2、算法
 
 # 3、设计思想
 
-## dynamic-programming
+## 动态规划：dynamic-programming
 
 ### 53.Maximum Subarray
