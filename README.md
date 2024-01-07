@@ -42,7 +42,9 @@
 
 ### 739.Daily Temperatures
 
-## 队列：05-queue
+## 哈希：05-hash
+
+### 1. Two Sum
 
 # 2、算法
 
