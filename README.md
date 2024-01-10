@@ -48,6 +48,8 @@
 
 ### 49. Group Anagrams
 
+### 128. Longest Consecutive Sequence
+
 # 2、算法
 
 # 3、设计思想
