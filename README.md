@@ -8,60 +8,76 @@
 
 ## 数组：02-array
 
-### 56.Merge Intervals
+```
+11. Container With Most Water
 
-### 189.Rotate Array
+15. Three Sum
 
-### 238.Product of Array Except Self
+56. Merge Intervals
 
-### 283. Move Zeroes
+189. Rotate Array
 
-### 11. Container With Most Water
+234. Palindrome Linked List
 
-### 15. Three Sum
+238. Product of Array Except Self
 
-### 234. Palindrome Linked List
+283. Move Zeroes
+```
 
 ## 链表：03-linkedlist
 
-### 206. Reverse Linked List
+```
+2. Add Two Numbers
 
-### 160. Intersection of Two Linked Lists
+19. Remove Nth Node From End of List
 
-### 21. Merge Two Sorted Lists
+21. Merge Two Sorted Lists
 
-### 141. Linked List Cycle
+24. Swap Nodes in Pairs
 
-### 142. Linked List Cycle II
+141. Linked List Cycle
 
-### 2. Add Two Numbers
+142. Linked List Cycle II
 
-### 19. Remove Nth Node From End of List
+160. Intersection of Two Linked Lists
 
-### 24. Swap Nodes in Pairs
+206. Reverse Linked List
+```
 
 ## 栈：04-stack
 
-### 20.Valid Parentheses
+```
+20. Valid Parentheses
 
-### 155.Min Stack
+155. Min Stack
 
-### 394.Decode String
+394. Decode String
 
-### 739.Daily Temperatures
+739. Daily Temperatures
+```
 
 ## 哈希：05-hash
 
-### 1. Two Sum
+```
+1. Two Sum
 
-### 49. Group Anagrams
+49. Group Anagrams
 
-### 128. Longest Consecutive Sequence
+128. Longest Consecutive Sequence
+```
 
 # 2、算法
+
+## 二分查找：binary-search
+
+```
+35. Search Insert Position
+```
 
 # 3、设计思想
 
 ## 动态规划：dynamic-programming
 
-### 53.Maximum Subarray
+```
+53. Maximum Subarray
+```
