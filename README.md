@@ -66,6 +66,12 @@
 128. Longest Consecutive Sequence
 ```
 
+## 树：06-tree
+
+```
+94. Binary Tree Inorder Traversal
+```
+
 # 2、算法
 
 ## 二分查找：binary-search
