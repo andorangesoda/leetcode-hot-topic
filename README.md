@@ -72,6 +72,8 @@
 94. Binary Tree Inorder Traversal
 
 104. Maximum Depth of Binary Tree
+
+226. Invert Binary Tree
 ```
 
 # 2、算法
