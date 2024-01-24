@@ -74,6 +74,8 @@
 104. Maximum Depth of Binary Tree
 
 226. Invert Binary Tree
+
+101. Symmetric Tree
 ```
 
 # 2、算法
