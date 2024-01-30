@@ -76,6 +76,8 @@
 226. Invert Binary Tree
 
 101. Symmetric Tree
+
+543. Diameter of Binary Tree
 ```
 
 # 2、算法
